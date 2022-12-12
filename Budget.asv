@@ -335,8 +335,7 @@ end
 
 
 
-%% saving stuff
-save('savedInfo.mat','Categories','RecurringDates','RecurringPayments','MonthTransactions')
+
 
 
 %% making a bar plot to show used and remains by category for each paycheck 
